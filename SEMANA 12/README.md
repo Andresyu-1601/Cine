@@ -1,6 +1,6 @@
 # Tarea Semana 12: Reserva de Cine
 
-- **Estudiante:** [Tu Nombre y Apellido]
+- **Estudiante:** [Washibton Yupangui]
 - **Materia:** Algoritmos y Programación
 - **Tema:** Arreglos Multidimensionales (Listas Anidadas)
 
@@ -14,4 +14,4 @@ Programa en Python que gestiona la reserva de asientos en una sala de cine peque
 ## Cómo ejecutar el programa
 1. Tener instalado Python 3.
 2. Ejecutar desde la terminal o consola:
-   python reserva_cine.py
+   python cine.py
