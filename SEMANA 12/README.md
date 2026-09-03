@@ -1,6 +1,6 @@
 # Tarea Semana 12: Reserva de Cine
 
-- **Estudiante:** [Washibton Yupangui]
+- **Estudiante:** Washibton Yupangui
 - **Materia:** Algoritmos y Programación
 - **Tema:** Arreglos Multidimensionales (Listas Anidadas)
 
